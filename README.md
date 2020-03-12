@@ -1,2 +1,2 @@
 # HbsisJedi
-Repositorio do Templo Jedi
+Repositorio enquanto estiver no Templo Jedi
